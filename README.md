@@ -1,28 +1,20 @@
-# CodeAlpha Python Programming Internship Projects
+# CodeAlpha Hangman Game
 
-This repository contains Python internship tasks completed for the CodeAlpha Internship Program.
+This is a simple text-based Hangman game developed using Python.
 
-## Projects Included
+## Features
 
-### 1. Basic Chatbot
-
-A simple rule-based chatbot using Python.
-
-### 2. Hangman Game
-
-A text-based Hangman game where users guess letters to find the hidden word.
-
-### 3. Stock Portfolio Tracker
-
-A Python program to calculate stock investment values using predefined stock prices.
+* Random word selection
+* Letter guessing system
+* Limited attempts for guessing
+* Win and lose conditions
 
 ## Technologies Used
 
 * Python
-* File Handling
-* Loops and Conditions
-* Dictionaries
-* Functions
+* Random Module
+* Loops
+* Lists and Strings
 
 ## Author
 
